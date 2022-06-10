@@ -1,0 +1,1 @@
+Este arquivo tera as anotações referente as aulas vitas no modulo 3, sobre o conteudo de JavaScript
